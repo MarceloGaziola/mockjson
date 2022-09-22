@@ -2,29 +2,11 @@
   "selecao": [
     {
       "id": "BRA",
-      "figura": [
-        {
-          "codigo": 1,
-          "status": "OK"
-        },
-        {
-          "codigo": 2,
-          "status": "OK"
-        }
-      ]
-    },
-    {
-      "id": "FRA",
-      "figura": [
-        {
-          "codigo": 1,
-          "status": "OK"
-        },
-        {
-          "codigo": 2,
-          "status": "OK"
-        }
-      ]
+      "figura": {
+        "codigo1": "OK1",
+        "codigo2": "OK2",
+        "codigo3": "OK3"
+      }
     }
   ]
 }
