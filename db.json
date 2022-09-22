@@ -1,0 +1,30 @@
+{
+  "selecao": [
+    {
+      "id": "BRA",
+      "figura": [
+        {
+          "codigo": 1,
+          "status": "OK"
+        },
+        {
+          "codigo": 2,
+          "status": "OK"
+        }
+      ]
+    },
+    {
+      "id": "FRA",
+      "figura": [
+        {
+          "codigo": 1,
+          "status": "OK"
+        },
+        {
+          "codigo": 2,
+          "status": "OK"
+        }
+      ]
+    }
+  ]
+}
