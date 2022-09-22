@@ -3,18 +3,18 @@
     {
       "id": "BRA",
       "figura": {
-        "codigo1": "OK1",
-        "codigo2": "OK2",
-        "codigo3": "OK3"
+        "bra1": "OK1",
+        "bra2": "OK2",
+        "bra3": "OK3"
       }
     },
     {
       "id": "FRA",
       "figura": {
-        "codigo1": "OK1",
-        "codigo2": "OK2",
-        "codigo3": "OK3",
-        "codigo4": "OK4"
+        "fra1": "OK1",
+        "fra2": "OK2",
+        "fra3": "OK3",
+        "fra4": "OK4"
       }
     }	
   ]
