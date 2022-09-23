@@ -1,16 +1,29 @@
-[
-  {
-    "postId": 1,
-    "id": 1,
-    "name": "id labore ex et quam laborum",
-    "email": "Eliseo@gardner.biz",
-    "body": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium"
-  },
-  {
-    "postId": 1,
-    "id": 2,
-    "name": "quo vero reiciendis velit similique earum",
-    "email": "Jayne_Kuhic@sydney.com",
-    "body": "est natus enim nihil est dolore omnis voluptatem numquam\net omnis occaecati quod ullam at\nvoluptatem error expedita pariatur\nnihil sint nostrum voluptatem reiciendis et"
-  }
-]
+{
+  "selecao": [
+    {
+      "id": "qat",
+      "figura": {
+        "qat1": "OK",
+        "qat2": "-",
+        "qat3": "-",
+        "qat4": "-",
+        "qat5": "-",
+        "qat6": "-",
+        "qat7": "-",
+        "qat8": "-",
+        "qat9": "-",
+        "qat10": "-",
+        "qat11": "-",
+        "qat12": "-",
+        "qat13": "-",
+        "qat14": "-",
+        "qat15": "-",
+        "qat16": "-",
+        "qat17": "-",
+        "qat18": "-",
+        "qat19": "-",
+        "qat20": "-"
+      }
+    }
+    ]
+}  
